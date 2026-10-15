@@ -10,7 +10,7 @@
 | Project | What it shows |
 |---|---|
 | [**mark-map**](https://github.com/Sankalp774/mark-map) | Multi-agent class-ops desk (AWS *Agents for Humans*). Turns an exam paper and marksheet into a chapter map and briefs for teachers and families. FastAPI + Strands, Bedrock/Ollama/LM Studio, OCR, CI, and an eval gate that keeps invented marks at 0. [Demo video](https://www.youtube.com/watch?v=mY93KqHv7S0) |
-| [**family-loop**](https://github.com/Sankalp774/family-loop) | Everyday agent desk around Screen Time: triages requests, asks the parent only when it should, and sends a Sunday digest. Strands specialists, policy JSON, persistent memory. |
+| [**family-loop**](https://github.com/Sankalp774/family-loop) | Everyday agent desk around Screen Time: triages requests, asks the parent only when it should, and sends a Sunday digest. Strands specialists, policy JSON, persistent memory. [Demo video](https://youtu.be/neJLUnf4qBk) |
 | [**Kasparro-ai-resume-screening**](https://github.com/Sankalp774/Kasparro-ai-resume-screening) | Deterministic resume ranking CLI. The LLM and GitHub API only supply evidence, with a fallback for each resume. pydantic, pytest, PDF reports. |
 | [**openclaw-nexus**](https://github.com/Sankalp774/openclaw-nexus) | Homelab agent system on OpenClaw: an old phone as the camera, a tablet as the kiosk, and a local 20B model, all controlled from WhatsApp. |
 | [**AI-powered-code-analysis-assistant**](https://github.com/Sankalp774/AI-powered-code-analysis-assistant) | AST and embedding-based static analysis with refactor suggestions. |
